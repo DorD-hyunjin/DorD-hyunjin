@@ -14,7 +14,7 @@
 ## 🤸‍♀️🤸‍ If you also want to study with me, look here ! 🤸‍♀️🤸‍
 
 ### what i want🌞🌈
-💭 Github Collaboration Experience <br/>
+💭 Github Collaboration experience <br/>
 
 💭 small project experience<br/>
 
