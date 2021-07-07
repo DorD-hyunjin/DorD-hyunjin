@@ -13,7 +13,7 @@
 
 ## 🤸‍♀️🤸‍ If you also want to study with me, look here ! 🤸‍♀️🤸‍
 
-### what  want🌞🌈
+### what i want🌞🌈
 💭 Github Collaboration Experience <br/>
 
 💭 small project experience<br/>
