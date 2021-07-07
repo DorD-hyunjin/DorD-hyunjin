@@ -2,7 +2,7 @@
 
 <br/>
 
-#### I am Hyunjin😊 and dreaming of being a 🧚‍back server developer🧚‍💗
+#### I am Hyunjin😊 and dreaming of being 🧚‍ a back server developer 🧚‍💗
 #### I'm currently learning 🐍python and 🧐algorithms ! 
 #### And i want to learn collaboration such as fork and branch through github🌱
 #### Let's all be great developers 💪
@@ -11,8 +11,7 @@
 <br/>
 <br/>
 
-## 🤸‍♀️🤸‍If you also want to study with me, look here !🤸‍♀️🤸‍
-<br/>
+## 🤸‍♀️🤸‍ If you also want to study with me, look here ! 🤸‍♀️🤸‍
 
 ### what do you want🌞🌈
 💭 Github Collaboration Experience <br/>
