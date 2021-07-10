@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-## 🤸‍♀️🤸‍ If you also want to study with me, look here ! 🤸‍♀️🤸‍
+## 🤸‍♀️🤸‍ If you want to study with me, look here ! 🤸‍♀️🤸‍
 
 ### what i want🌞🌈
 💭 Github Collaboration experience <br/>
