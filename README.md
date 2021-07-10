@@ -2,7 +2,7 @@
 <br/>
 
 #### Nice to meet you!
-#### I am Hyunjin😊 and dream of being 🧚‍ a back server developer 🧚‍💗
+#### I am Hyunjin😊 and dream of being 🧚‍ a backend developer 🧚‍💗
 #### I'm currently learning 🐍python and 🧐algorithms ! 
 #### And i want to learn collaboration such as fork and branch through github🌱
 #### Let's all be great developers 💪
